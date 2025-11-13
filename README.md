@@ -14,7 +14,7 @@ It allows you to:
 - Schedule appointments with selected services and times  
 - Store all information in a PostgreSQL database  
 
-It was created as part of the [FreeCodeCamp Relational Database certification project](https://www.freecodecamp.org/).
+It was created as part of a FreeCodeCamp Relational Database certification project.
 
 ---
 
@@ -109,3 +109,4 @@ I have put you down for a color at 14:00, John.
 ## 👨‍💻 Author
 
 Created by: Hugo Rocha
+
